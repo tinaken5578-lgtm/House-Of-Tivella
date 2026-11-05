@@ -7,21 +7,21 @@ const products = [
     type: "Premium bone-straight wig",
     price: "Enquire for price",
     tag: "BESTSELLER",
-    image: "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=900&q=85",
+    image: "https://wowangel.com/cdn/shop/files/wowangel-13x6-hd-lace-full-frontal-wigs-premium-raw-hair-body-wave-wowangel-1.jpg?crop=center&height=900&v=1739064089&width=900",
   },
   {
     name: "Soft Body Wave",
     type: "Luxury body-wave wig",
     price: "Enquire for price",
     tag: "CUSTOMER FAVOURITE",
-    image: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=85",
+    image: "https://wowangel.com/cdn/shop/files/wowangel-13x6-hd-lace-full-frontal-wigs-premium-raw-hair-body-wave-wowangel-1.jpg?crop=center&height=900&v=1739064089&width=900",
   },
   {
     name: "The Everyday Wig",
     type: "Ready-to-wear lace wig",
     price: "Enquire for price",
     tag: "EFFORTLESS GLAM",
-    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=85",
+    image: "https://cdn.shopify.com/s/files/1/0722/2122/9270/collections/HD-Lace-Wig_723e9903-be43-4868-811c-e9bd3270e4a2.png?v=1733495601",
   },
 ];
 
